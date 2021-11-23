@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hypoalgesia
-- 👀 I’m interested in money
+- 💵 I’m interested in money
 - 🌱 I’m currently learning how to cook eggs
 
 <!---
