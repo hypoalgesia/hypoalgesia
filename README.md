@@ -1,6 +1,3 @@
-- 💵 I’m interested in money
-- 🌱 I’m currently learning how to cook eggs
-
 Ingredients
 
     - 1 (12-ounce) can SPAM® Classic, cut into cubes
