@@ -14,7 +14,7 @@ In a greased skillet, cook the egg mixture over medium-high heat, pulling with a
 Add the SPAM® Classic to the skillet and reduce the heat, gently stirring the mixture until the SPAM® Classic is heated thoroughly. Garnish with chives.
 
 
-![spam](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FTRJTwbh_spam-can-hd-png-download%2F&psig=AOvVaw28DGe44iozB772Gbr041vQ&ust=1638120930318000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCh55OKufQCFQAAAAAdAAAAABAD)
+![spam]('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FTRJTwbh_spam-can-hd-png-download%2F&psig=AOvVaw28DGe44iozB772Gbr041vQ&ust=1638120930318000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCh55OKufQCFQAAAAAdAAAAABAD')
 
 <!---
 hypoalgesia/hypoalgesia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
