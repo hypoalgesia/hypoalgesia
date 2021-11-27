@@ -1,11 +1,11 @@
-Ingredients
+### Ingredients
 
 - 1 (12-ounce) can SPAM® Classic, cut into cubes
 - 2 fresh chives, chopped, if desired
 - 4 large eggs
 - 1/4 cup milk
 
-Directions
+### Directions
 
 In a bowl, whisk together the eggs and milk.
 
